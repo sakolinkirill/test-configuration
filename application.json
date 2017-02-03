@@ -2,5 +2,7 @@
   "sources":[
     "sources/somegit.json",
     "sources/someriak.json"
-  ]
+  ],
+  "http": 8080,
+  "kafka": "kafka-libre:9092"
 }
