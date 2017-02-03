@@ -2,10 +2,4 @@
   "id" : "someriak",
   "type" : "riak",
   "bucket" : "person",
-  "riaknodes" : [
-    "kafka-libre:8087"
-  ],
-  "kafkanodes" : [
-    "kafka-libre:9092"
-  ]
 }

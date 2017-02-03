@@ -1,0 +1,5 @@
+{
+  "id" : "someriak2",
+  "type" : "riak",
+  "bucket" : "person2",
+}

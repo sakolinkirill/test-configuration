@@ -1,8 +1,14 @@
 {
+  "http": 8080,
   "sources":[
     "sources/somegit.json",
-    "sources/someriak.json"
+    "sources/someriak.json",
+	"sources/someriak2.json"
   ],
-  "http": 8080,
-  "kafka": "kafka-libre:9092"
+  "riaknodes" : [
+    "kafka-libre:8087"
+  ],
+  "kafkanodes" : [
+    "kafka-libre:9092"
+  ]
 }
