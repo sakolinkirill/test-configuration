@@ -1,6 +1,7 @@
 {
   "id" : "someriak",
   "type" : "riak",
+  "bucket" : "person",
   "riaknodes" : [
     "kafka-libre:8087"
   ],
