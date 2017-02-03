@@ -1,20 +1,6 @@
-{"sources":[
-  {"someriak" : {
-    "type" : "riak",
-    "nodes" : [{
-      "host" : "kafka-libre",
-      "port" : 8087
-    }],
-    "kafka" : "kafka-libre:9092"
-  }},
-  {"somegit" : {
-    "type" : "git",
-    "path" : "",
-    "branch" : "master",
-    "reload" : 300,
-    "files" : [
-      "dir1/local/application.properties",
-      "dir1/local/application1.properties"
-    ]
-  }}
-]}
+{
+  "sources":[
+    "sources/somegit.json",
+    "sources/someriak.json"
+  ]
+}

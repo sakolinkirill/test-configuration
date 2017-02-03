@@ -1,0 +1,10 @@
+{
+  "type" : "git",
+  "path" : "https://github.com/sakolinkirill/test-configuration.git",
+  "branch" : "master",
+  "reload" : 300,
+  "files" : [
+    "dir1/local/application.properties",
+    "dir1/local/application1.properties"
+  ]
+}
