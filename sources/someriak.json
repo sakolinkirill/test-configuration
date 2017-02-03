@@ -1,4 +1,5 @@
 {
+  "id" : "someriak",
   "type" : "riak",
   "riaknodes" : [
     "kafka-libre:8087"

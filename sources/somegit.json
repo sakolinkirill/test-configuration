@@ -1,4 +1,5 @@
 {
+  "id" : "somegit",
   "type" : "git",
   "path" : "https://github.com/sakolinkirill/test-configuration.git",
   "branch" : "master",
