@@ -5,10 +5,10 @@
     "sources/someriak.json",
 	"sources/someriak2.json"
   ],
-  "riaknodes" : [
+  "riakNodes" : [
     "kafka-libre:8087"
   ],
-  "kafkanodes" : [
+  "kafkaNodes" : [
     "kafka-libre:9092"
   ],
   "serviceKafkaTopic" : "property",
