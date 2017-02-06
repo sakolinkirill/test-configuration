@@ -10,5 +10,9 @@
   ],
   "kafkanodes" : [
     "kafka-libre:9092"
-  ]
+  ],
+  "serviceKafkaTopic" : "property",
+  "serviceKafkaGroup" : "configurationService",
+  "reloadKafkaTopic" : "configurationUpdate",
+  "reloadKafkaGroup" : "somethingunique"
 }
